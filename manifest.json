@@ -1,0 +1,10 @@
+{
+  "id": "sonicnote-asr",
+  "name": "SonicNoteGeek",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "音频转写与智能总结 — 提取MP3录音链接，支持ASR转写、说话人分离、LLM结构化总结，内置商务会议/学术交流/课堂总结等模板",
+  "author": "",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
