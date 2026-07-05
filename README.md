@@ -93,8 +93,13 @@ SonicNoteGeek-Obsidian/
 
 Anthropic Claude、OpenAI GPT、智谱 GLM、DeepSeek、MiniMax、Google Gemini、阿里通义千问、百度文心一言、字节豆包、腾讯混元、华为盘古、Moonshot Kimi、讯飞星火、Mistral、Meta Llama，及自定义兼容接口。
 
+## 视频教程
+
+- [Bilibili 使用教程](https://www.bilibili.com/video/BV1gE7A6zERK/?vd_source=e28745caa23df4182841fe10c0c4faff) — 视频演示与操作指南
+
 ## 文档
 
+- [官方使用文档](https://ainote.easylinkin.com/#/resources/docs) — 在线完整使用指南
 - [SonicNoteGeek 功能说明](./docs/SonicNoteGeek-功能说明.md) — 完整中文用户手册
 - [OpenAI ASR 接口标准](./docs/OpenAI_ASR_GUIDE.md) — 本地/远程 ASR 服务对接规范
 
